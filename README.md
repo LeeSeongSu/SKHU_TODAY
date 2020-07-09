@@ -3,4 +3,4 @@
 
 https://skhu-732f9.firebaseapp.com/
 
-링크 클릭 후 
+링크 클릭 후 이용(아직 미완성)
